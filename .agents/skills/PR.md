@@ -1,9 +1,14 @@
 # Pull Request Skill
 
-Follow these instructions whenever asked to create a Pull Request (PR).
+Follow these instructions ONLY when explicitly asked to create a Pull Request (PR). 
+
+**Do not** create a PR automatically after committing.
 
 ## PR Title
 Format: `{type}({jira-ticket-id}): {PR-title}`
+
+## Assignee
+**Default**: Always assign the PR to **Arpita** (or the user who requested it).
 
 ---
 

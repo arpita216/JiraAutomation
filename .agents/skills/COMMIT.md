@@ -1,6 +1,8 @@
 # Commit Skill
 
-Follow these instructions whenever asked to create a commit or push changes.
+Follow these instructions whenever asked to create a commit. 
+
+**IMPORTANT**: Do NOT push the branch or create a Pull Request unless explicitly requested by the user.
 
 ## Workflow
 
